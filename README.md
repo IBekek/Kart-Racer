@@ -1,4 +1,4 @@
-# KartRacer
+# Kart Racer
 
 This is a time attack racer made for a university project, and was the first 'finished' game I've made. Though the focus was mainly on creating racing game mechanics, I've also taken in upon myself to create beautiful rural environment and try my hand im map design. Main features include:
 
